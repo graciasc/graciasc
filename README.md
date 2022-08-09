@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 - 🌱 I’m currently working on a calendar app ...
-- 📫 How to reach me: [linkedin]: https://linkedin.com/in/gracias-claude/
+- 📫 How to reach me: [linkedin](https://linkedin.com/in/gracias-claude/)
 - ⚡ Fun fact: League is life
 <!-- ### Connect with me: -->
 
