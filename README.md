@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a avid Learner!
+<!-- ## I'm a avid Learner!
 - 🔭 I’m currently studing data structures and algorithm on my own time
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
+-->
 
 <!-- ### Connect with me: -->
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 
  <img src ="https://github.com/graciasc/graciasc/blob/output/github-contribution-grid-snake.svg">
   </p>
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=graciasc)](https://github.com/graciasc/github-readme-stats) -->
+<!--[![gracias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=graciasc)](https://github.com/graciasc/github-readme-stats) -->
 
 <!-- [![Gracias's github stats](https://github-readme-stats.vercel.app/api?username=graciasc&count_private=true&show_icons=true&theme=nord)](https://github.com/graciasc/github-readme-stats) -->
 
