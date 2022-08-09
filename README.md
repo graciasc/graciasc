@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
 -->
 ### Hi there 👋
-🌱 I’m currently working on a calendar app ...
-📫 How to reach me: [linkedin]: https://linkedin.com/in/gracias-claude/
-⚡ Fun fact: League is life
+- 🌱 I’m currently working on a calendar app ...
+- 📫 How to reach me: [linkedin]: https://linkedin.com/in/gracias-claude/
+- ⚡ Fun fact: League is life
 <!-- ### Connect with me: -->
 
 <!-- [<img align="left" alt="graciasc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
