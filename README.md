@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## I'm a avid Learner!
 - 🔭 I’m currently studing data structures and algorithm on my own time
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
-- ⚡ Fun fact: I love my coffee and .configs 
-
 
 <!-- ### Connect with me: -->
 
