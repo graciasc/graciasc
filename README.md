@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- ## I'm a avid Learner!
-- 🔭 I’m currently studing data structures and algorithm on my own time
+- 🔭 I’m currently studying data structures and algorithm on my own time
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
 -->
 ### Hi there 👋
-- 🌱 I’m currently working on a calendar app ...
+- 🌱 I’m currently working on ...
 - 📫 How to reach me:  [Linkedin](https://linkedin.com/in/gracias-claude/)
 - ⚡ Fun fact: League is life
 <!-- ### Connect with me: -->
